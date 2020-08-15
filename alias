@@ -1,0 +1,5 @@
+alias g="git"
+alias l="lando"
+alias d="docker"
+alias h="heroku"
+
