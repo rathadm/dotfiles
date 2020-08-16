@@ -1,5 +1,5 @@
-alias g="git"
-alias l="lando"
 alias d="docker"
+alias dot="dotnet"
+alias g="git"
 alias h="heroku"
-
+alias l="lando"
