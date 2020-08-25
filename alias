@@ -1,5 +1,7 @@
 alias d="docker"
-alias dot="dotnet"
 alias g="git"
 alias h="heroku"
 alias l="lando"
+alias n="node"
+alias .n="dotnet"
+alias y="yarn"
