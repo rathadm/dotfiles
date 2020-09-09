@@ -17,7 +17,4 @@ antigen theme robbyrussell
 # Tell antigen that you're done
 antigen apply
 
-# heroku autocomplete setup
-HEROKU_AC_ZSH_SETUP_PATH=$HOME/.cache/heroku/autocomplete/zsh_setup && test -f $HEROKU_AC_ZSH_SETUP_PATH && source $HEROKU_AC_ZSH_SETUP_PATH;
-
 source ~/.profile
